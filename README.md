@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Suhas Peri</h1>
-<h3 align="center">🚀 A Passionate Computer Science Student at RVCE, Bengaluru | MERN Stack Developer </h3>
+<h3 align="center">🚀 A Passionate Computer Science Student at RVCE, Bengaluru | Full Stack Developer </h3>
 
 ---
 
